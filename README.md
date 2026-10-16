@@ -16,8 +16,8 @@
 
 ### Результат
 
-![task1_4_ok](lab2/lab2/screenshots/task1_4_ok.png)
-![task1_4_err](screenshots/task1_4_err.png)
+![task1_4_ok](lab2/lab2/screenshots/task1_4_ok.jpg)
+![task1_4_err](lab2/lab2/screenshots/task1_4_err.jpg)
 
 ---
 
@@ -32,8 +32,8 @@
 3. Выбираем окончание: «этаж», «этажа» или «этажей».
 4. Склеиваем строку.
 ### Результат
-![task1_5_ok](screenshots/task1_5_ok.png)
-![task1_5_err](screenshots/task1_5_err.png)
+![task1_5_ok](lab2/lab2/screenshots/task1_5_ok.jpg)
+![task1_5_err](lab2/lab2/screenshots/task1_5_err.jpg)
 
 ---
 
@@ -51,8 +51,8 @@
 ### Ввод
 
 ### Результат
-![task2_4_ok](screenshots/task2_4_ok.png)
-![task2_4_err](screenshots/task2_4_err.png)
+![task2_4_ok](lab2/lab2/screenshots/task2_4_ok.jpg)
+![task2_4_err](lab2/lab2/screenshots/task2_4_err.jpg)
 
 ---
 
@@ -68,8 +68,8 @@
 4. В `Main`: получаем список через любого сотрудника и выводим.
 
 ### Результат
-![task3_4_ok](screenshots/task3_4_ok.png)
-![task3_4_err](screenshots/task3_4_err.png)
+![task3_4_ok](lab2/lab2/screenshots/task3_4_ok.jpg)
+![task3_4_err](lab2/lab2/screenshots/task3_4_err.jpg)
 
 ---
 
@@ -87,8 +87,8 @@
 ### Результат
 
 
-![task4_3_ok](screenshots/task4_3_ok.png)
-![task4_3_err](screenshots/task4_3_err.png)
+![task4_3_ok](lab2/lab2/screenshots/task4_3_ok.jpg)
+![task4_3_err](lab2/lab2/screenshots/task4_3_err.jpg)
 
 ---
 
@@ -104,5 +104,5 @@
    - Нет → `"Клац!"`.
 
 ### Результат
-![task5_1_ok](screenshots/task5_1_ok.png)
-![task5_1_err](screenshots/task5_1_err.png)
+![task5_1_ok](lab2/lab2/screenshots/task5_1_ok.jpg)
+![task5_1_err](lab2/lab2/screenshots/task5_1_err.jpg)
