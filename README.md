@@ -15,11 +15,8 @@
 4. Склеиваем строку.
 
 ### Результат
-```
-100000 секунд -> 3:46:40
-```
 
-![task1_4_ok](lab2/screenshots/task1_4_ok.png)
+![task1_4_ok](lab2/lab2/screenshots/task1_4_ok.png)
 ![task1_4_err](screenshots/task1_4_err.png)
 
 ---
